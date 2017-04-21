@@ -1,0 +1,14 @@
+.square {
+  width: 33.3%;
+  box-sizing: border-box;
+  background: white;
+  border: 1px solid lightgray;
+}
+
+.square-1 {
+  background: red;
+}
+
+.square-2 {
+  background: blue;
+}

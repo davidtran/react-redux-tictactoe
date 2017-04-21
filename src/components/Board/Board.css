@@ -1,0 +1,26 @@
+.board-wrapper {
+  width: 300px;
+}
+
+.winnerText {
+  font-size: 1.3rem;
+  font-weight: bold;
+  text-align: center;
+}
+
+.board {
+  display: flex;
+  flex-wrap: wrap;
+  width: 300px;
+  height: 300px;
+  border: 1px solid lightgray;
+}
+
+.btn-play-again {
+  padding: 5px 10px;
+  border: 1px solid lightgray;
+  border-radius: 5px;
+  margin-top: 10px;
+  text-align: center;
+  cursor: pointer;
+}
